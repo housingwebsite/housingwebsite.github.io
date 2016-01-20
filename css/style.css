@@ -1,0 +1,28 @@
+.menu li ul{
+	display: none;
+	position: absolute;
+	
+	
+}
+
+.menu li:hover ul{
+	display: block;
+}
+
+body{
+	background-color: #FFFFFF;
+	color: #0B4A5E;
+	
+}
+.heading{
+	background-color: #A56BBD;
+	width: 30%;
+	float: left;
+	color: #FFFFFF;
+	font-size: 29px;
+	height: 65%;
+}
+ul.menu li{
+	display: inline;
+}
+
